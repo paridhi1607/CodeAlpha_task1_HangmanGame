@@ -59,6 +59,14 @@ python main.py
 7. Guess the complete word before reaching the limit to win.
 8. Choose whether you want to play again.
 
+##  Screenshots
+### Game Start
+![Game Start](screenshots/game_begin.png.png)
+### Correct and Wrong Guesses
+![Correct and Wrong](screenshots/correct-incorrect.png.png)
+### Winning Screen
+![Winning](screenshots/winner.png.png)
+
 
 ##  Internship Task
 This project was created as **Task 1 — Hangman Game** for the CodeAlpha Python Programming Internship.
